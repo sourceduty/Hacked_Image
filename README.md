@@ -23,10 +23,12 @@ Rules:
 
 #
 
-What does 'Hacked Image' do?
+### What does 'Hacked Image' do?
+
 This custom GPT creates image files using an original image process. The consistency of output images is regulated in this process.
 
-How is 'Hacked Image' unique?
+### How is 'Hacked Image' unique?
+
 The processing required and utilized to create the final image is unique.
 
 ![OpenAI Hacked Image](https://github.com/sourceduty/Hacked_Image/assets/123030236/ef938669-1a4c-40ae-b542-95c322e40faf)
